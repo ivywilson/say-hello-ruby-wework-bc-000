@@ -13,3 +13,6 @@ describe "say_hello" do
   end
 end
 
+name = Tyler
+
+puts "Hello (name)"
