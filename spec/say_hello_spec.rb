@@ -13,10 +13,5 @@ describe "say_hello" do
   end
 end
 
-name = ["Kent Beck"]
-
-def say_hello
-  puts "Hello [name]!"
-end
 
 
