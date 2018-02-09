@@ -16,7 +16,7 @@ end
 name = ["Kent Beck"]
 
 def say_hello
-  puts "Hello Kent Back"
+  puts "Hello {name}"
 end
 
 
