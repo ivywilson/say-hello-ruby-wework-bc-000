@@ -1,6 +1,6 @@
 # Build your say_hello method here
-say_hello = Ivy
+say_hello = "Ivy"
 
 def say_hello(name)
-  puts "Hello Ken Beck"!
+  puts "Hello #{name}!"
 end
