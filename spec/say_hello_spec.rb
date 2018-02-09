@@ -13,7 +13,7 @@ describe "say_hello" do
   end
 end
 
-name = [Tyler]
+name = tyler
 
 puts "Hello [name]"
 
