@@ -13,10 +13,8 @@ describe "say_hello" do
   end
 end
 
-name = tyler
-
 def say_hello
-  puts " Hello (name)"
+  puts " Hello Kent Back"
 end
 
 
